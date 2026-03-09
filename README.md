@@ -227,4 +227,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: This project implements the algorithm described in "High Adaptability Trajectory Tracking Algorithm Based on Kalman Filter Network" published in Acta Aeronautica et Astronautica Sinica (2025). The code has been refactored for open-source publication with improved code quality, comprehensive documentation, and English language support.
+
+**Note**: This project implements the algorithm described in "High Adaptability Trajectory Tracking Algorithm Based on Kalman Filter Network" published in Acta Aeronautica et Astronautica Sinica (2025).
