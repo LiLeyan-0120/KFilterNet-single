@@ -222,6 +222,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Real-time hardware validation
 
 ---
-
-
-**Note**: This project implements the algorithm described in "High Adaptability Trajectory Tracking Algorithm Based on Kalman Filter Network" published in Acta Aeronautica et Astronautica Sinica (2025).
