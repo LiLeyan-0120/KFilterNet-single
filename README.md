@@ -195,11 +195,7 @@ If you use this code in your research, please cite:
 @article{kfilternet2025,
   title={High Adaptability Trajectory Tracking Algorithm Based on Kalman Filter Network},
   author={Li, Leyan and Zuo, Jialiang and Yang, Minbo and Yang, Rennong and Guo, Anxin and Deng, Wangchuanzi and Zhang, Zhenxing},
-  journal={Acta Aeronautica et Astronautica Sinica},
-  volume={},
-  number={},
-  year={2025},
-  doi={}
+  year={2025}
 }
 ```
 
