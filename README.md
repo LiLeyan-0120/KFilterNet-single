@@ -285,14 +285,12 @@ initial covariance `P₀` (via `CovarianceNetwork`, active when `init_type = lea
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{kfilternet2025,
+@article{kfilternet2026,
   title={High Adaptability Trajectory Tracking Algorithm Based on Kalman Filter Network},
   author={Li, Leyan and Zuo, Jialiang and Yang, Minbo and Yang, Rennong and Guo, Anxin and Deng, Wangchuanzi and Zhang, Zhenxing},
-  journal={Acta Aeronautica et Astronautica Sinica},
-  volume={},
-  number={},
-  year={2025},
-  doi={}
+  journal={Systems Engineering and Electronics},
+  year={2026},
+  note={Chinese title: 基于卡尔曼滤波网络的高适应性航迹跟踪算法. Accepted; volume, issue and DOI not yet assigned}
 }
 ```
 
@@ -320,4 +318,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: This project implements the algorithm described in "High Adaptability Trajectory Tracking Algorithm Based on Kalman Filter Network" published in Acta Aeronautica et Astronautica Sinica (2025). The code has been refactored for open-source publication with improved code quality, comprehensive documentation, and English language support.
+**Note**: This project implements the algorithm described in "High Adaptability Trajectory Tracking Algorithm Based on Kalman Filter Network" (基于卡尔曼滤波网络的高适应性航迹跟踪算法), accepted by *Systems Engineering and Electronics* (系统工程与电子技术) in 2026. Volume, issue and DOI have not yet been assigned. The code has been refactored for open-source publication with improved code quality, comprehensive documentation, and English language support.
